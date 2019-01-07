@@ -1,13 +1,17 @@
 ###
 # Unity folders and files
 ###
-[Aa]ssets/AssetStoreTools*
-[Bb]uild/
-[Ll]ibrary/
-[Ll]ocal[Cc]ache/
-[Oo]bj/
-[Tt]emp/
-[Uu]nityGenerated/
+SAEquipHDRP/[Aa]ssets/AssetStoreTools*
+SAEquipHDRP/[Aa]ssets/ExampleAssets*
+SAEquipHDRP/[Aa]ssets/Oculus*
+SAEquipHDRP/[Aa]ssets/SampleScenes*
+SAEquipHDRP/[Aa]ssets/Standard Assets*
+SAEquipHDRP/[Bb]uild/
+SAEquipHDRP/[Ll]ibrary/
+SAEquipHDRP/[Ll]ocal[Cc]ache/
+SAEquipHDRP/[Oo]bj/
+SAEquipHDRP/[Tt]emp/
+SAEquipHDRP/[Uu]nityGenerated/
 # file on crash reports
 sysinfo.txt
 # Unity3D generated meta files
